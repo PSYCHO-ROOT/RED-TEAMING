@@ -43,4 +43,24 @@ The final attack may look something like this:
 * Identifying paths to predetermined objectives (e.g. a finance database) using privileged credentials to achieve those objectives.
 
 * Exfiltration of data from the target network to demonstrate the ways an attacker could remove sensitive information.
+## Red teaming benefits
+At the broadest level, the value of red teaming is that it provides a comprehensive picture of cybersecurity within your organization. Red teams should be as creative and resourceful as real-life malicious actors who will inevitably probe and test every square inch of the potential attack surface. 
 
+The assessment doesn’t conclude after initial vulnerabilities are discovered and exposed, however. The exercise will extend towards re-testing, lateral movement, and remediation phases that will test just about every aspect of your cybersecurity strategy. You’ll be able to completely assess your capability to detect, remediate and prevent targeted attacks.
+In fact, the real work typically begins after a red team intrusion, when you’ll perform forensic analysis of the attack and formulate ways to mitigate vulnerabilities.
+## Red teaming vs. penetration testing
+Though pen testing is important, it is only one part of what a red team does. Red team operations have broader objectives than pen testers, whose goal is often just to get access to a network.
+
+Red team exercises are designed to emulate a more real-world advanced persistent threat (APT) scenario and result in reviewing defensive strategies and detailed risk analysis. Penetration testing is only a small part of red teaming. Red teaming includes evasion and persistence, privilege escalation, and exfiltration, whereas penetration testing exercises only the first part of the cyber kill chain.
+#### Time box
+This is the time frame in which each activity is conducted. For pen testing, the time box is extremely narrow – typically less than one day. For red teaming, the time box can be extended over multiple days, weeks, and even months.
+#### Tooling
+Pen testing and red teaming also employ different tools and technologies. Employees will typically conduct a pen test using commercially available software. Red teams are encouraged to use any tool, trick, or tactic in their arsenal and think creatively while attempting to breach systems.
+#### Awareness
+This is one of the most distinct differences between Pen Testing and red teaming. With Pen Testing, most of your employees are aware of what’s taking place. But red teaming exercises require that your organization is completely unaware to get a real picture of your cyber defenses.
+#### Vulnerabilities
+Which vulnerabilities are attacked will also differ. In pen testing, known vulnerabilities are specified and targeted to see how well-defended they are. Red teams won't just exploit a single vulnerability, however. They’ll also seek out new ones in your network and attempt to move laterally.
+#### Targeting
+When conducting penetration testing, your test target vulnerabilities will be narrow and pre-defined. You’ll target a specific firewall or password system, for instance. Red team targets are more fluid, ranging across multiple domains and networks.
+#### Testing
+Penetration testing involves testing each system independently, one at a time, and is a much more siloed approach than red teaming. When implementing red teaming, all your systems are targeted simultaneously throughout the time box, giving you a better idea of your plan of defense and response to a real hack.

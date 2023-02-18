@@ -1,4 +1,7 @@
 # RED TEAMING
+
+![net](http://preview.turbosquid.com/Preview/2014/05/24__20_49_08/Chess-CU-Red.jpge9312dd5-9d57-4986-96a2-f5fe3ec10fd1Original.jpg)
+
 ## INTRODUCTION
 Cybersecurity is a constant race between white hat hackers and black hat hackers. As threats in the cyber-world evolve,so does the need for more specialized services that allow companies to prepare for real attacks the best they can.
 

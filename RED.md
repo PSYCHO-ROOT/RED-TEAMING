@@ -64,3 +64,9 @@ Which vulnerabilities are attacked will also differ. In pen testing, known vulne
 When conducting penetration testing, your test target vulnerabilities will be narrow and pre-defined. You’ll target a specific firewall or password system, for instance. Red team targets are more fluid, ranging across multiple domains and networks.
 #### Testing
 Penetration testing involves testing each system independently, one at a time, and is a much more siloed approach than red teaming. When implementing red teaming, all your systems are targeted simultaneously throughout the time box, giving you a better idea of your plan of defense and response to a real hack.
+## Red Team Engagement
+Engagements can be very complex and bureaucratic. The key to a successful engagement is clearly defined client objectives or goals. Client objectives should be discussed between the client and red team to create a mutual understanding between both parties of what is expected and provided. Set objectives are the basis for the rest of the engagement documentation and planning.
+
+The key to a successful engagement is clearly defined client objectives or goals. Client objectives should be discussed between the client and red team to create a mutual understanding between both parties of what is expected and provided. Set objectives are the basis for the rest of the engagement documentation and planning.
+
+***Rules of Engagement (RoE)*** are a legally binding outline of the client objectives and scope with further details of engagement expectations between both parties. This is the first "official" document in the engagement planning process and requires proper authorization between the client and the red team. This document often acts as the general contract between the two parties; an external contract or other NDAs (Non-Disclosure Agreement) can also be used.

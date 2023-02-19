@@ -73,3 +73,6 @@ Engagements can be very complex and bureaucratic. The key to a successful engage
 The key to a successful engagement is clearly defined client objectives or goals. Client objectives should be discussed between the client and red team to create a mutual understanding between both parties of what is expected and provided. Set objectives are the basis for the rest of the engagement documentation and planning.
 
 ***Rules of Engagement (RoE)*** are a legally binding outline of the client objectives and scope with further details of engagement expectations between both parties. This is the first "official" document in the engagement planning process and requires proper authorization between the client and the red team. This document often acts as the general contract between the two parties; an external contract or other NDAs (Non-Disclosure Agreement) can also be used.
+
+## Adversary Emulation ?
+Adversary emulation leverages adversary TTPs, enhanced by cyber threat intelligence, to create a security test based on real world intrusion campaigns.

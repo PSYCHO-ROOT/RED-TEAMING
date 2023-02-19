@@ -75,4 +75,10 @@ The key to a successful engagement is clearly defined client objectives or goals
 ***Rules of Engagement (RoE)*** are a legally binding outline of the client objectives and scope with further details of engagement expectations between both parties. This is the first "official" document in the engagement planning process and requires proper authorization between the client and the red team. This document often acts as the general contract between the two parties; an external contract or other NDAs (Non-Disclosure Agreement) can also be used.
 
 ## Adversary Emulation ?
-Adversary emulation leverages adversary TTPs, enhanced by cyber threat intelligence, to create a security test based on real world intrusion campaigns.
+Adversary emulators construct a scenario to test certain aspects of an adversary’s tactics, techniques, and procedures (TTPs). The red team then follows the scenario while operating on a target network in order to test how defenses might fare against the emulated adversary.
+
+Since ATT&CK is a large knowledge base of real-world adversary behaviors, it doesn’t take much imagination to draw a connection between adversary or red team behaviors and ATT&CK. 
+The tests allow for a laser focus on individual ATT&CK techniques, so it makes building ATT&CK-based defensive coverage easier to approach because you can start with a single test for a single technique and expand from there.
+
+![net](https://miro.medium.com/max/1336/1*GExpD6-qohS6b1Q-u89Ryg.png)
+

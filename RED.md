@@ -84,4 +84,7 @@ The tests allow for a laser focus on individual ATT&CK techniques, so it makes b
 
 ## Advensed Persistence Threat
 Cyber criminals invest large amounts of money to develop devices that successfully evade traditional and advanced security measures. These groups mainly seek personal financial information and intellectual property (patents) to steal. State sponsored cyber attacks are designed to steal data and compromise infrastructures. Advanced persistent threats (APTs) can bypass cyber security efforts and cause serious damage to your organization.
- 
+
+This is an example of APT lifecycle
+
+![net](https://info.varonis.com/hubfs/Imported_Blog_Media/advanced-persistend-threat-lifecycle-3.png)

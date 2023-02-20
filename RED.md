@@ -83,7 +83,5 @@ The tests allow for a laser focus on individual ATT&CK techniques, so it makes b
 ![net](https://miro.medium.com/max/1336/1*GExpD6-qohS6b1Q-u89Ryg.png)
 
 ## Advensed Persistence Threat
- Cyber criminals invest large amounts of money to develop devices that successfully evade traditional and advanced security measures. These groups mainly seek personal financial information and intellectual property (patents) to steal. State sponsored cyber attacks are designed to steal data and compromise infrastructures. Advanced persistent threats (APTs) can bypass cyber security efforts and cause serious damage to your organization.
- 
- APTs have well-defined characteristics that can be categorized and explained.
+Cyber criminals invest large amounts of money to develop devices that successfully evade traditional and advanced security measures. These groups mainly seek personal financial information and intellectual property (patents) to steal. State sponsored cyber attacks are designed to steal data and compromise infrastructures. Advanced persistent threats (APTs) can bypass cyber security efforts and cause serious damage to your organization.
  
